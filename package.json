@@ -1,0 +1,17 @@
+{
+  "name": "angularjs-multimodule-route",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tiagor87/angularjs-multimodule-route.git",
+  "author": "Tiago Resende <tiagor87@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "aliv"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "aliv": "^1.8.0",
+    "angular": "^1.6.6",
+    "angular-route": "^1.6.6"
+  }
+}
